@@ -12,7 +12,7 @@ When you click on the `send` submit button, it obviously send the `message` by m
 
 To do that, you have to use a **PHP** Backend, check the official documentation, there is a `function` for that.
 
-## Bonuses
+## Bonus
 
 * Use _Bootstrap_ OR _Fundation_ OR _Material Design Light_
 * Check if the mail address is valid (use **REGEX**)
@@ -20,3 +20,7 @@ To do that, you have to use a **PHP** Backend, check the official documentation,
 * Let user add multiple recipients in `email` input
 * Allow emoji, bold text, images, even youtube videos
 * Or anything else that you think is a cool feature!
+
+### To go further
+
+* [How To Use Gmail or Yahoo with PHP mail() Function](https://www.digitalocean.com/community/tutorials/how-to-use-gmail-or-yahoo-with-php-mail-function)
