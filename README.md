@@ -7,8 +7,8 @@ Just a simple **HTML** form:
 * a text area `message`
 * a `send` submit button
 
-When you click on the submit button, it obviously send the mail!
-To do that, you have to use a **PHP** Backend, check the official documentation, there is a function for that.
+When you click on the `send` submit button, it obviously send the `message` by mail to the recipient set in the `email` input!
+To do that, you have to use a **PHP** Backend, check the official documentation, there is a `function` for that.
 
 ## Bonuses
 
