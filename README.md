@@ -1,6 +1,6 @@
 # PHP Send Mail Form
 
-![MailMan](http://9cbcca1e6f9e03544a02-539d006b7d1ab88a7f6e8d03decc893c.r44.cf2.rackcdn.com/71576c522bcb802f3a3dafb5395c404b.gif)
+![MailMan](donald_duck.png)
 
 Just a simple **HTML** form:
 
