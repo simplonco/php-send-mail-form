@@ -1,6 +1,6 @@
 # PHP Send Mail Form
 
-![MailMan](donald_duck.png)
+![MailMan](spam.jpg)
 
 Just a simple **HTML** form:
 
