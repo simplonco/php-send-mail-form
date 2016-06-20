@@ -1,6 +1,6 @@
 # PHP Formulaire d'envoi de Mail
 
-![MailMan](donald_duck.png)
+![MailMan](spam.jpg)
 
 Un simple formulaire **HTML** :
 
