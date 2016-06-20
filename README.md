@@ -12,13 +12,19 @@ When you click on the `send` submit button, it obviously send the `message` by m
 
 To do that, you have to use a **PHP** Backend, check the official documentation, there is a `function` for that.
 
+### Setup
+
+```shell
+sudo apt-get install sendmail
+```
+
 ## Bonus
 
 * Use _Bootstrap_ OR _Fundation_ OR _Material Design Light_
 * Check if the mail address is valid (use **REGEX**)
 * Limit the size of the message to 500 characters
 * Let user add multiple recipients in `email` input
-* Allow emoji, bold text, images, even youtube videos
+* Allow emoji, bold text, images, file attachements, even youtube videos
 * Or anything else that you think is a cool feature!
 
 ### To go further
